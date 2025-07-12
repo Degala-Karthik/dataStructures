@@ -7,6 +7,7 @@ public class String1 {
             }
         }
         return "";
+        
 
         //a substring ending with an odd number is always odd, so we are looking for the index that will be odd.
 
